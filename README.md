@@ -70,13 +70,7 @@ POSSystem/
 
 ## 📸 Screenshots
 
-> Add your screenshots inside the `/images` folder and update links
-
-![Login](images/login.png)
-![Dashboard](images/dashboard.png)
-![Sales](images/sales.png)
-![Report](images/report.png)
-
+> All screenshots inside the `/images` folder 
 ---
 
 ## 🙋‍♂️ Author
